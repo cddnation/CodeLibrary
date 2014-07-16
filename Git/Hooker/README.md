@@ -5,7 +5,7 @@ Automatically have your server `git pull` from your branch when you push your lo
 ## Setup
 Inside your repo you will need to find your post-receive hook and add the url to the github.php file you're about to place on the server.
 
-Clone the dir in to the docroot of your server.
+Clone the dir in to the docroot **of the website** on your server.
 
 Once added change any names you feel appropriate such as the file created by the github.php script and the **$branch** variable.
 
