@@ -29,3 +29,7 @@ $ sudo service crond restart
 
 Et voila. You should be able to push changes now and assuming set up correctly it'll pick them up and pull automatically.
 
+
+## Running
+
+Simply add -pull- to your commit messages to have it git pull automatically
